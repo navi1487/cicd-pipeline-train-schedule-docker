@@ -16,9 +16,7 @@ pipeline {
             steps {
                 script {
                     app = docker.build("navi0114/train-schedule")
-                    app.inside {
-                        sh 'echo $(curl localhost:8080)'
-                    }
+                  
                 }
             }
         }
