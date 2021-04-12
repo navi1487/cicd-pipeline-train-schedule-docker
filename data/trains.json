@@ -1,7 +1,7 @@
 {
 	"trains": [
 		{
-			"name": "Hogwarts Express",
+			"name": "Chennai Express",
 			"stops": [
 				{
 					"station": "Sycamore",
@@ -18,7 +18,7 @@
 			]
 		},
 		{
-			"name": "Flying Scotsman",
+			"name": "Hyderabad Express",
 			"stops": [
 				{
 					"station": "Pine",
